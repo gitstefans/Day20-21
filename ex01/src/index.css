@@ -66,7 +66,10 @@ button:hover {
 }
 #backSpace {
     width: 160px;
-    height: 162px;
+    height: 80px;
+}
+#enterBtn {
+    width: 160px;
 }
 .flex-wrapper-2{
     flex-direction: column;
